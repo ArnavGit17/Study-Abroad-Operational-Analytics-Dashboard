@@ -1,0 +1,13 @@
+student_id,month,country,counselor,source,segment,stage,drop_off_reason,visa_status,response_hours,satisfaction,processing_days
+S101,Jan,United States,Aisha Mehta,Webinars,Masters STEM,Enrollment Confirmed,,Approved,12,4.8,31
+S102,Jan,Canada,Rohan Kapoor,Referrals,MBA,Visa Approved,,Approved,15,4.6,38
+S103,Feb,Germany,Neha Iyer,Organic Search,Data and Analytics,Admits Received,Timing,Pending,17,4.5,45
+S104,Feb,United Kingdom,Rohan Kapoor,University Fairs,Masters STEM,Applications Submitted,Document fit,,14,4.7,27
+S105,Mar,Australia,Kabir Singh,Paid Search,Undergraduate,Counseling,Budget,,21,4.2,35
+S106,Mar,United States,Priya Nair,Organic Search,Data and Analytics,Enrollment Confirmed,,Approved,11,4.9,29
+S107,Apr,Ireland,Priya Nair,Referrals,Design and Arts,Applications Submitted,Low intent,,16,4.4,29
+S108,Apr,Canada,Aisha Mehta,Webinars,MBA,Admits Received,Timing,Pending,13,4.8,38
+S109,May,Germany,Neha Iyer,Organic Search,Masters STEM,Visa Approved,,Approved,18,4.6,45
+S110,May,United Kingdom,Rohan Kapoor,Referrals,Data and Analytics,Enrollment Confirmed,,Approved,14,4.7,27
+S111,Jun,United States,Aisha Mehta,Webinars,Undergraduate,Applications Submitted,University fit,,12,4.8,31
+S112,Jun,Australia,Kabir Singh,University Fairs,MBA,Lead Generated,Unreachable,,20,4.1,35

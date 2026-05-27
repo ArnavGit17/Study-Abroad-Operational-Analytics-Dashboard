@@ -1,0 +1,298 @@
+{
+  "funnelStages": [
+    {
+      "stage": "Lead Generated",
+      "short": "Leads",
+      "value": 2480,
+      "color": "#3178c6",
+      "summary": "New inquiries from webinars, referrals, SEO, and university fairs."
+    },
+    {
+      "stage": "Counseling",
+      "short": "Counseling",
+      "value": 1725,
+      "color": "#13a89e",
+      "summary": "Students who completed at least one counseling session."
+    },
+    {
+      "stage": "Applications Submitted",
+      "short": "Applications",
+      "value": 1188,
+      "color": "#7467ef",
+      "summary": "Students with one or more university applications submitted."
+    },
+    {
+      "stage": "Admits Received",
+      "short": "Admits",
+      "value": 642,
+      "color": "#f2aa3b",
+      "summary": "Students who received at least one university admit."
+    },
+    {
+      "stage": "Visa Approved",
+      "short": "Visa",
+      "value": 471,
+      "color": "#f9735b",
+      "summary": "Students who secured visa approval for the selected intake."
+    },
+    {
+      "stage": "Enrollment Confirmed",
+      "short": "Enrollment",
+      "value": 386,
+      "color": "#172033",
+      "summary": "Students who paid deposit and confirmed their university."
+    }
+  ],
+  "monthlyTrend": [
+    { "month": "Jan", "leads": 310, "counseling": 205, "applications": 136, "admits": 68, "visas": 42, "enrollments": 34 },
+    { "month": "Feb", "leads": 356, "counseling": 232, "applications": 158, "admits": 79, "visas": 54, "enrollments": 41 },
+    { "month": "Mar", "leads": 389, "counseling": 265, "applications": 181, "admits": 94, "visas": 67, "enrollments": 53 },
+    { "month": "Apr", "leads": 415, "counseling": 292, "applications": 206, "admits": 112, "visas": 83, "enrollments": 66 },
+    { "month": "May", "leads": 486, "counseling": 348, "applications": 244, "admits": 142, "visas": 108, "enrollments": 91 },
+    { "month": "Jun", "leads": 524, "counseling": 383, "applications": 263, "admits": 147, "visas": 117, "enrollments": 101 }
+  ],
+  "sourceMix": [
+    { "name": "Organic Search", "value": 31, "color": "#3178c6" },
+    { "name": "Referrals", "value": 24, "color": "#13a89e" },
+    { "name": "Webinars", "value": 18, "color": "#f2aa3b" },
+    { "name": "University Fairs", "value": 15, "color": "#f9735b" },
+    { "name": "Paid Search", "value": 12, "color": "#7467ef" }
+  ],
+  "countryData": [
+    {
+      "country": "United States",
+      "code": "USA",
+      "applications": 430,
+      "admits": 252,
+      "visas": 196,
+      "enrollments": 164,
+      "admitRate": 58.6,
+      "visaSuccess": 77.8,
+      "avgProcessingDays": 31,
+      "demandGrowth": 18
+    },
+    {
+      "country": "Canada",
+      "code": "CAN",
+      "applications": 286,
+      "admits": 169,
+      "visas": 121,
+      "enrollments": 92,
+      "admitRate": 59.1,
+      "visaSuccess": 71.6,
+      "avgProcessingDays": 38,
+      "demandGrowth": 11
+    },
+    {
+      "country": "United Kingdom",
+      "code": "UK",
+      "applications": 238,
+      "admits": 151,
+      "visas": 110,
+      "enrollments": 84,
+      "admitRate": 63.4,
+      "visaSuccess": 72.8,
+      "avgProcessingDays": 27,
+      "demandGrowth": 9
+    },
+    {
+      "country": "Germany",
+      "code": "DEU",
+      "applications": 146,
+      "admits": 88,
+      "visas": 71,
+      "enrollments": 55,
+      "admitRate": 60.3,
+      "visaSuccess": 80.7,
+      "avgProcessingDays": 45,
+      "demandGrowth": 26
+    },
+    {
+      "country": "Australia",
+      "code": "AUS",
+      "applications": 117,
+      "admits": 74,
+      "visas": 49,
+      "enrollments": 38,
+      "admitRate": 63.2,
+      "visaSuccess": 66.2,
+      "avgProcessingDays": 35,
+      "demandGrowth": 7
+    },
+    {
+      "country": "Ireland",
+      "code": "IRL",
+      "applications": 82,
+      "admits": 47,
+      "visas": 33,
+      "enrollments": 25,
+      "admitRate": 57.3,
+      "visaSuccess": 70.2,
+      "avgProcessingDays": 29,
+      "demandGrowth": 14
+    }
+  ],
+  "countryTrend": [
+    { "month": "Jan", "USA": 58, "Canada": 38, "UK": 34, "Germany": 18, "Australia": 16 },
+    { "month": "Feb", "USA": 64, "Canada": 42, "UK": 36, "Germany": 20, "Australia": 17 },
+    { "month": "Mar", "USA": 67, "Canada": 46, "UK": 39, "Germany": 23, "Australia": 18 },
+    { "month": "Apr", "USA": 72, "Canada": 51, "UK": 42, "Germany": 27, "Australia": 20 },
+    { "month": "May", "USA": 82, "Canada": 55, "UK": 45, "Germany": 29, "Australia": 22 },
+    { "month": "Jun", "USA": 87, "Canada": 54, "UK": 42, "Germany": 29, "Australia": 24 }
+  ],
+  "visaTrend": [
+    { "month": "Jan", "success": 68, "rejected": 12, "pending": 20 },
+    { "month": "Feb", "success": 70, "rejected": 11, "pending": 19 },
+    { "month": "Mar", "success": 72, "rejected": 10, "pending": 18 },
+    { "month": "Apr", "success": 73, "rejected": 9, "pending": 18 },
+    { "month": "May", "success": 75, "rejected": 8, "pending": 17 },
+    { "month": "Jun", "success": 76, "rejected": 8, "pending": 16 }
+  ],
+  "counselors": [
+    {
+      "name": "Aisha Mehta",
+      "region": "USA and Canada",
+      "students": 398,
+      "applications": 228,
+      "admits": 136,
+      "visas": 96,
+      "enrollments": 82,
+      "conversion": 20.6,
+      "responseHours": 13,
+      "satisfaction": 4.8,
+      "targetProgress": 92
+    },
+    {
+      "name": "Rohan Kapoor",
+      "region": "UK and Ireland",
+      "students": 344,
+      "applications": 206,
+      "admits": 131,
+      "visas": 92,
+      "enrollments": 77,
+      "conversion": 22.4,
+      "responseHours": 15,
+      "satisfaction": 4.7,
+      "targetProgress": 96
+    },
+    {
+      "name": "Neha Iyer",
+      "region": "Germany",
+      "students": 286,
+      "applications": 156,
+      "admits": 94,
+      "visas": 75,
+      "enrollments": 58,
+      "conversion": 20.3,
+      "responseHours": 17,
+      "satisfaction": 4.6,
+      "targetProgress": 88
+    },
+    {
+      "name": "Kabir Singh",
+      "region": "Australia and NZ",
+      "students": 251,
+      "applications": 132,
+      "admits": 81,
+      "visas": 53,
+      "enrollments": 41,
+      "conversion": 16.3,
+      "responseHours": 20,
+      "satisfaction": 4.4,
+      "targetProgress": 76
+    },
+    {
+      "name": "Priya Nair",
+      "region": "Multi-country",
+      "students": 446,
+      "applications": 276,
+      "admits": 161,
+      "visas": 117,
+      "enrollments": 91,
+      "conversion": 20.4,
+      "responseHours": 14,
+      "satisfaction": 4.9,
+      "targetProgress": 94
+    }
+  ],
+  "counselorTrend": [
+    { "month": "Jan", "Aisha": 11, "Rohan": 9, "Neha": 7, "Kabir": 5, "Priya": 10 },
+    { "month": "Feb", "Aisha": 12, "Rohan": 11, "Neha": 8, "Kabir": 6, "Priya": 12 },
+    { "month": "Mar", "Aisha": 13, "Rohan": 13, "Neha": 9, "Kabir": 7, "Priya": 14 },
+    { "month": "Apr", "Aisha": 14, "Rohan": 14, "Neha": 10, "Kabir": 8, "Priya": 16 },
+    { "month": "May", "Aisha": 15, "Rohan": 15, "Neha": 12, "Kabir": 8, "Priya": 18 },
+    { "month": "Jun", "Aisha": 17, "Rohan": 15, "Neha": 12, "Kabir": 7, "Priya": 21 }
+  ],
+  "counselorRadar": [
+    { "metric": "Conversion", "Aisha": 86, "Rohan": 92, "Neha": 84, "Priya": 88 },
+    { "metric": "Speed", "Aisha": 90, "Rohan": 86, "Neha": 80, "Priya": 89 },
+    { "metric": "Admits", "Aisha": 84, "Rohan": 87, "Neha": 78, "Priya": 90 },
+    { "metric": "Visa", "Aisha": 83, "Rohan": 81, "Neha": 88, "Priya": 86 },
+    { "metric": "CSAT", "Aisha": 91, "Rohan": 89, "Neha": 86, "Priya": 94 }
+  ],
+  "dropOffReasons": [
+    { "stage": "Lead to Counseling", "lowIntent": 278, "unreachable": 191, "budget": 145, "timing": 141 },
+    { "stage": "Counseling to Applications", "lowIntent": 172, "unreachable": 86, "budget": 151, "timing": 128 },
+    { "stage": "Applications to Admits", "lowIntent": 52, "unreachable": 19, "budget": 118, "timing": 357 },
+    { "stage": "Admits to Visa", "lowIntent": 26, "unreachable": 11, "budget": 54, "timing": 80 },
+    { "stage": "Visa to Enrollment", "lowIntent": 14, "unreachable": 6, "budget": 36, "timing": 29 }
+  ],
+  "studentSegments": [
+    { "segment": "Masters STEM", "students": 912, "enrollments": 158, "conversion": 17.3 },
+    { "segment": "MBA", "students": 418, "enrollments": 74, "conversion": 17.7 },
+    { "segment": "Undergraduate", "students": 536, "enrollments": 66, "conversion": 12.3 },
+    { "segment": "Data and Analytics", "students": 352, "enrollments": 69, "conversion": 19.6 },
+    { "segment": "Design and Arts", "students": 262, "enrollments": 19, "conversion": 7.3 }
+  ],
+  "recentActivity": [
+    {
+      "title": "USA applications crossed weekly target",
+      "meta": "87 submissions this week",
+      "impact": "+14% vs previous week",
+      "tone": "teal"
+    },
+    {
+      "title": "Canada counseling drop-off needs attention",
+      "meta": "54 leads inactive for 7+ days",
+      "impact": "Priority follow-up queue",
+      "tone": "coral"
+    },
+    {
+      "title": "Germany visa success remains strongest",
+      "meta": "80.7% approval rate",
+      "impact": "+5.4 pts above average",
+      "tone": "amber"
+    },
+    {
+      "title": "Rohan has the best counselor conversion",
+      "meta": "22.4% lead to enrollment",
+      "impact": "Replicate playbook",
+      "tone": "ocean"
+    }
+  ],
+  "quickInsights": [
+    {
+      "label": "Operational focus",
+      "title": "Application stage is the largest bottleneck",
+      "detail": "The funnel loses 546 students between applications and admits, mostly due to timing and university fit gaps.",
+      "metric": "46.0% drop-off"
+    },
+    {
+      "label": "Country signal",
+      "title": "Germany demand is growing fastest",
+      "detail": "Germany applications grew 26% with the best visa success rate, making it a strong webinar and counselor capacity bet.",
+      "metric": "+26% demand"
+    },
+    {
+      "label": "Counselor signal",
+      "title": "Fast responses correlate with better conversion",
+      "detail": "Counselors under 15 response hours average 21.1% conversion versus 18.3% for slower queues.",
+      "metric": "15 hr SLA"
+    }
+  ],
+  "intakeSummary": {
+    "label": "Spring 2026 intake",
+    "openFollowUps": 216,
+    "slaAdherence": 84
+  }
+}
