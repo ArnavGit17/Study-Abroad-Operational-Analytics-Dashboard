@@ -1,7 +1,5 @@
 # Study Abroad Operational Analytics Dashboard
 
-A one-day, recruiter-friendly React dashboard project for Operational and Data Analyst internship applications at study abroad consultancies.
-
 The dashboard tracks the student funnel:
 
 `Lead Generated -> Counseling -> Applications Submitted -> Admits Received -> Visa Approved -> Enrollment Confirmed`
@@ -44,6 +42,15 @@ To create a production build:
 ```bash
 npm run build
 ```
+---
+
+## 🚀 Live Demo & Repository
+
+🌐 Live Demo: https://study-abroad-operational-analytics.vercel.app/
+
+💻 GitHub Repository: https://github.com/ArnavGit17/Study-Abroad-Operational-Analytics-Dashboard
+
+---
 
 ## Project Structure
 
@@ -226,28 +233,8 @@ Team productivity dashboard:
 - Workload vs outcomes
 - Counselor leaderboard
 
-## How To Present This In Interviews
+  # 👨‍💻 Author
 
-Use this short explanation:
+## Arnav Tripathi
 
-> I built a study abroad operations analytics dashboard that tracks students from lead generation to enrollment confirmation. The goal was to identify funnel drop-offs, compare destination countries, and evaluate counselor performance. I used React for the UI, Tailwind CSS for a polished SaaS-style layout, Recharts for analytics visualizations, and realistic mock data so the project stays simple and easy to explain.
-
-Good talking points:
-
-- "I focused on business insights, not just charts."
-- "The funnel page helps identify the biggest operational bottleneck."
-- "The country page shows where demand and visa success are strongest."
-- "The counselor page connects workload, response time, and conversion."
-- "This can help a consultancy prioritize follow-ups, counselor capacity, and country-specific campaigns."
-
-## What Recruiters Will Like
-
-- It looks like a real analytics SaaS product.
-- It matches operational analyst work: KPIs, funnels, trends, and performance metrics.
-- It is scoped correctly for a student project: no unnecessary backend, auth, DevOps, or AI.
-- The code is split into reusable components, clear page files, and mock JSON data.
-- The insights are easy to explain in a 2-minute demo.
-
-## Resume Line
-
-Built a React-based Study Abroad Operational Analytics Dashboard using Tailwind CSS, Recharts, and mock data to analyze student funnel conversion, country-wise trends, visa success rates, and counselor performance KPIs.
+GitHub: https://github.com/ArnavGit17
